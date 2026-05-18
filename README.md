@@ -6,7 +6,7 @@
 
 拖拽即压缩，支持 PNG / JPEG / HEIC / TIFF / BMP / WebP
 
-[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)](https://github.com/kudiier/ImageCompressor)
+[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)](https://github.com/kudi88/ImageCompressor)
 [![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)](https://swift.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -35,13 +35,13 @@
 
 ### 方式一：下载预编译包
 
-前往 [Releases](https://github.com/kudiier/ImageCompressor/releases) 下载 `ImageCompressor.zip`，解压后拖入「应用程序」文件夹即可。
+前往 [Releases](https://github.com/kudi88/ImageCompressor/releases) 下载 `ImageCompressor.zip`，解压后拖入「应用程序」文件夹即可。
 
 ### 方式二：从源码构建
 
 ```bash
 # 克隆仓库
-git clone https://github.com/kudiier/ImageCompressor.git
+git clone https://github.com/kudi88/ImageCompressor.git
 cd ImageCompressor
 
 # 安装 PNG 压缩依赖（推荐）
@@ -100,9 +100,9 @@ swift run
 
 如果这个工具对你有帮助，请给个 **Star** ⭐ — 这是对开源开发者最大的鼓励！
 
-- 🐛 发现问题？[提交 Issue](https://github.com/kudiier/ImageCompressor/issues/new)
-- 💡 有想法？[发起讨论](https://github.com/kudiier/ImageCompressor/discussions)
-- 🔧 想贡献？[提交 PR](https://github.com/kudiier/ImageCompressor/compare)
+- 🐛 发现问题？[提交 Issue](https://github.com/kudi88/ImageCompressor/issues/new)
+- 💡 有想法？[发起讨论](https://github.com/kudi88/ImageCompressor/discussions)
+- 🔧 想贡献？[提交 PR](https://github.com/kudi88/ImageCompressor/compare)
 
 **觉得好用？点右上角 ⭐ Star 让更多人看到！**
 
